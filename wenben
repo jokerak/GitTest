@@ -9,5 +9,5 @@ git add;
 git commit;
 git push;
 git pull;
-test git;
+git test;
 git fetch;
