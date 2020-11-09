@@ -10,4 +10,4 @@ git commit;
 git push;
 git pull;
 test git;
-f
+git fetch;
